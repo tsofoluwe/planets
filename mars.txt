@@ -5,3 +5,5 @@ But everything is my favourite colour
 The two moons may be a problem for Wolfman - the Earth has just one moon
 
 But the Mummy will appreciate the lack of humidity :)
+
+- Test Committing Multiple Files in mars.txt
